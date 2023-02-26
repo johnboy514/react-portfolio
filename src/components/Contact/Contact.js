@@ -4,7 +4,10 @@ import Form from 'react-bootstrap/Form';
 
 function Contact() {
   return (
-    <Form>
+    <center className="pb-4 bg-info">
+    <h1>Contact me here!</h1>
+    <br></br>
+    <Form className="px-5" style={{ marginBottom: 200, maxWidth: 600, minHeight: 315, backgroundColor: "lightGreen", borderRadius: 25}}>
       <Form.Group className="mb-3" controlId="formName">
         <Form.Label>Name</Form.Label>
         <Form.Control type="text" placeholder="Enter name" />
@@ -17,13 +20,14 @@ function Contact() {
 
       <Form.Group className="mb-3" controlId="formMessage">
         <Form.Label>Message</Form.Label>
-        <Form.Control type="text" placeholder="Enter message" />
+        <Form.Control as="textarea" rows={8} placeholder="Enter message" />
       </Form.Group>
 
-      <Button variant="primary" type="submit">
+      <Button className="mb-3" variant="success" type="submit">
         Submit
       </Button>
     </Form>
+    </center>
   );
 }
 
