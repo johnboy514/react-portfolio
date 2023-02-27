@@ -9,7 +9,7 @@ function Portfolio() {
         {
           name: "Covid Tracker",
           description:"Tracked news about covid by area!",
-          link: "https://eaponte24.github.io/Covid-Tracker/A",
+          link: "https://eaponte24.github.io/Covid-Tracker/",
           image: "./images/Covid-tracker.jpg" 
         },
         {
@@ -33,7 +33,7 @@ function Portfolio() {
         {
           name: "Code Quiz",
           description:"Test your skills!",
-          link: "https://johnboy514.github.io/Quiz/D",
+          link: "https://johnboy514.github.io/Quiz/",
           image: "./images/Quiz.png" 
       },
       {
