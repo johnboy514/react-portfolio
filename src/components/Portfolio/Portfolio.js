@@ -25,7 +25,7 @@ function Portfolio() {
           image: "./images/Weather-test.png" 
         },
         {
-          name: "Pssword Generator",
+          name: "Password Generator",
           description:"Generate new and unique codes!",
           link: "https://johnboy514.github.io/Password-Generator/",
           image: "./images/Pass_gen.png" 
