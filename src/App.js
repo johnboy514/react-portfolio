@@ -10,9 +10,6 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 function App() {
   let component
   switch (window.location.pathname) {
-    case "/":
-      component = <About />
-      break
     case "/portfolio":
       component = <Portfolio />
       break
@@ -21,6 +18,9 @@ function App() {
       break
     case "/resume":
       component = <Resume />
+      break
+    default:
+      component = <About />
       break
   }
   return (

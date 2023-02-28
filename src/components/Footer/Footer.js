@@ -3,9 +3,6 @@ import {
   MDBFooter,
   MDBContainer,
   MDBIcon,
-  MDBInput,
-  MDBCol,
-  MDBRow,
   MDBBtn
 } from 'mdb-react-ui-kit';
 
