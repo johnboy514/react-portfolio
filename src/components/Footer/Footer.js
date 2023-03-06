@@ -19,9 +19,9 @@ export default function App() {
             <MDBIcon fab icon='instagram' />
           </MDBBtn>
 
-          <MDBBtn outline color="light" floating className='m-1' href='#!' role='button'>
+          {/* <MDBBtn outline color="light" floating className='m-1' href='#!' role='button'>
             <MDBIcon fab icon='linkedin-in' />
-          </MDBBtn>
+          </MDBBtn> */}
 
           <MDBBtn outline color="light" floating className='m-1' href='https://github.com/johnboy514' role='button'>
             <MDBIcon fab icon='github' />
@@ -52,9 +52,7 @@ export default function App() {
 
         <section className='mb-4'>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum repellat quaerat
-            voluptatibus placeat nam, commodi optio pariatur est quia magnam eum harum corrupti dicta, aliquam
-            sequi voluptate quas.
+            Have a great day and always keep learning!
           </p>
         </section>
 
