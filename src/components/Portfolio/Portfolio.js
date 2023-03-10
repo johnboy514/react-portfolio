@@ -37,10 +37,10 @@ function Portfolio() {
           image: "./images/Quiz.png" 
       },
       {
-        name: "Note Taker",
-        description:"Keep track of all your thoughts!",
-        link: "https://note-taker-app-best.herokuapp.com/notes",
-        image: "./images/Note_Taker.png" 
+        name: "Fit Quest",
+        description:"We do the Fit things!",
+        link: "https://fitquest.herokuapp.com/",
+        image: "./images/Fitquest.jpg" 
       }
       ];
       return (
