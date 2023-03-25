@@ -19,6 +19,8 @@ To use this project the user needs to download the project and then in the termi
 
 https://drive.google.com/file/d/10B-AajTxntXzvxRElwNm8x2iJR1lWblO/view
 
+Link to site: https://portfolio-jim.herokuapp.com/
+
 ## Credits
 
 Robert Obernier
