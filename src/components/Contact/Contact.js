@@ -3,6 +3,7 @@ import Button from 'react-bootstrap/Button';
 import Form from 'react-bootstrap/Form';
 import { useRef } from "react";
 import emailjs from '@emailjs/browser';
+import '../../App.css';
 
 function Contact() {
   const [visible, setVisible] = React.useState(false);

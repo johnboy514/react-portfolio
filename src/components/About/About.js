@@ -1,5 +1,6 @@
 import React from "react";
 import Card from 'react-bootstrap/Card';
+import '../../App.css';
 
 
 const About = () => {

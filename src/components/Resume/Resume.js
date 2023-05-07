@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import { Document, Page } from 'react-pdf/dist/esm/entry.webpack'
 import Button from 'react-bootstrap/Button';
+import '../../App.css';
 
 function Resume() {
 

@@ -1,4 +1,5 @@
 import React from 'react';
+import '../../App.css';
 import {
   MDBFooter,
   MDBContainer,
@@ -53,6 +54,9 @@ export default function App() {
         <section className='mb-4'>
           <p>
             Have a great day and always keep learning!
+            You can also reach me at my email here!
+            <br></br>
+            john.ifert.miller@gmail.com
           </p>
         </section>
 
