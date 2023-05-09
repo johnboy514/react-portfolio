@@ -9,6 +9,7 @@ const About = () => {
     <Card className="bg-secondary" style={{ maxWidth: '50rem', marginBottom: '200px'}}>
       <Card.Img className="mx-auto" style={{ marginBottom: '50px', marginTop: '15px', maxWidth: '10rem', borderRadius: '100px'}} variant="top" src=".\images\Photo_for_react.jpg" />
       <Card.Body>
+        <Card.Title>John Ifert-Miller</Card.Title>
         <Card.Title>About</Card.Title>
         <Card.Text>
         I am currently learning to become a full stack web developer.
