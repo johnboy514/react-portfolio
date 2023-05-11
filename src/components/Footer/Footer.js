@@ -53,6 +53,8 @@ export default function App() {
 
         <section className='mb-4'>
           <p>
+            Links to my socials above!
+            <br></br>
             Have a great day and always keep learning!
             You can also reach me at my email here!
             <br></br>
