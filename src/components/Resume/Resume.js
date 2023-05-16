@@ -30,7 +30,7 @@ function Resume() {
       <center>
       <header className="resume-header">
         <Document file="./images/resume.pdf" onLoadSuccess={onDocumentLoadSuccess}>
-          <Page  height="1500" pageNumber={pageNumber} />
+          <Page  height="1300" pageNumber={pageNumber} />
         </Document>
         <div className="w-50 pb-3 pt-2" style={{backgroundColor: "lightGray", borderRadius: 25}}>
           <p> Page {pageNumber} of {numPages}</p>
