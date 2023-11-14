@@ -12,9 +12,6 @@ export default function App() {
     <MDBFooter className='text-center' color='white' bgColor='dark'>
       <MDBContainer className='p-4'>
         <section className='mb-4'>
-          <MDBBtn outline color="light" floating className='m-1' href='https://twitter.com/johnifertmiller' role='button'>
-            <MDBIcon fab icon='twitter' />
-          </MDBBtn>
 
           <MDBBtn outline color="light" floating className='m-1' href='https://www.instagram.com/swahenjoyer/' role='button'>
             <MDBIcon fab icon='instagram' />

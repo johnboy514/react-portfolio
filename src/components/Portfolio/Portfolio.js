@@ -8,6 +8,14 @@ import '../../App.css';
 function Portfolio() {
     const projects = [
         {
+          name: "DnD Helper App",
+          description:"Designed to help run a zombie themed Dnd game for new and veteran players on their phones!",
+          techUsed: "React, javascript, HTML5, SCss3, Bootstrap, Regex",
+          link: "https://dndhelperapp-1b8e93a876a7.herokuapp.com/",
+          repoLink: "https://github.com/rjo6615/DnD/tree/multiClass",
+          image: "./images/Dnd.jpg" 
+        },
+        {
           name: "Covid Tracker",
           description:"Tracked news about covid by area!",
           techUsed: "API, javascript, HTML5, Css3, Bootstrap",
@@ -46,15 +54,15 @@ function Portfolio() {
           link: "https://johnboy514.github.io/Quiz/",
           repoLink: "https://github.com/johnboy514/Quiz",
           image: "./images/Quiz.png" 
-      },
-      {
-        name: "Fit Quest",
-        description:"We do the Fit things!",
-        techUsed: "React, MongoDB, Express.js, Bootstrap, Node.js and API",
-        link: "https://fitquest.herokuapp.com/",
-        repoLink: "https://github.com/rjo6615/Fit-Quest",
-        image: "./images/Fitquest.jpg" 
-      }
+        },
+        {
+          name: "Fit Quest",
+          description:"We do the Fit things!",
+          techUsed: "React, MongoDB, Express.js, Bootstrap, Node.js and API",
+          link: "https://fitquest.herokuapp.com/",
+          repoLink: "https://github.com/rjo6615/Fit-Quest",
+          image: "./images/Fitquest.jpg" 
+        }
       ];
       return (
         <center className="pb-4 bg-info">
