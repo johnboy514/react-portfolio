@@ -10,7 +10,7 @@ function Portfolio() {
         {
           name: "DnD Helper App",
           description:"Designed to help run a zombie themed Dnd game for new and veteran players on their phones!",
-          techUsed: "React, javascript, HTML5, SCss3, Bootstrap, Regex",
+          techUsed: "React, Javascript, HTML5, SCss3, Bootstrap, Regex, MongoDb, Express.js, Node",
           link: "https://dndhelperapp-1b8e93a876a7.herokuapp.com/",
           repoLink: "https://github.com/rjo6615/DnD/tree/multiClass",
           image: "./images/Dnd.jpg" 
