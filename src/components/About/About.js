@@ -12,7 +12,7 @@ const About = () => {
         <Card.Title>John Ifert-Miller</Card.Title>
         <Card.Title>About</Card.Title>
         <Card.Text>
-        I am A full stack developer building off of experience doing freelance work.
+        I am a full stack developer building off of experience doing freelance work.
         I have enjoyed working with computers and using them throughout my life and wanted to deepen my understanding and possibly make a living off it at the same time.
         </Card.Text>
       </Card.Body>

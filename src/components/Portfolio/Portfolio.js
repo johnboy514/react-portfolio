@@ -16,6 +16,14 @@ function Portfolio() {
           image: "./images/Dnd.jpg" 
         },
         {
+          name: "Wild Bergamot",
+          description:"Landing page made for a landscaping company located in Marshall NC!",
+          techUsed: "React, Email.js, Regex, Javascript, HTML5, Css3, Bootstrap",
+          link: "https://wildbergamot.net/",
+          repoLink: "https://github.com/johnboy514/landscapingwildbergamot",
+          image: "./images/wildbergamot.jpg" 
+        },
+        {
           name: "Covid Tracker",
           description:"Tracked news about covid by area!",
           techUsed: "API, javascript, HTML5, Css3, Bootstrap",
