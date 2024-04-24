@@ -16,6 +16,22 @@ function Portfolio() {
           image: "./images/Dnd.jpg" 
         },
         {
+          name: "Website Builder Form",
+          description:"Designed to help streamline the process of building sites for people",
+          techUsed: "React, Javascript, HTML5, CSS3, Bootstrap, Regex, Email.Js",
+          link: "https://johnboy514.github.io/websiteform/",
+          repoLink: "https://github.com/johnboy514/websiteform",
+          image: "./images/websiteform.jpg" 
+        },
+        {
+          name: "Yoga Sound and Healing",
+          description:"Landing page made for a yoga company in Atlanta GA ",
+          techUsed: "React, Javascript, HTML5, CSS3, Bootstrap",
+          link: "https://rjo6615.github.io/breeyoga/",
+          repoLink: "https://github.com/rjo6615/breeyoga",
+          image: "./images/yoga.jpg" 
+        },
+        {
           name: "Wild Bergamot",
           description:"Landing page made for a landscaping company located in Marshall NC!",
           techUsed: "React, Email.js, Regex, Javascript, HTML5, Css3, Bootstrap",
